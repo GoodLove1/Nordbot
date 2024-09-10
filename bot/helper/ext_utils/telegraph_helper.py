@@ -13,8 +13,8 @@ class TelegraphHelper:
         self.telegraph = Telegraph(domain='graph.org')
         self.short_name = ''.join(SystemRandom().choices(ascii_letters, k=8))
         self.access_token = None
-        self.author_name = "WZML-X-ADVANCE"
-        self.author_url = "https://telegram.me/NordBotz"
+        self.author_name = "Fondness Bots"
+        self.author_url = "https://telegram.me/FondnessBots"
 
     async def create_account(self):
         await self.telegraph.create_account(
