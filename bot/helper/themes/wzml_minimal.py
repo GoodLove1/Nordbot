@@ -2,10 +2,10 @@
 class WZMLStyle:
     # ----------------------
     # async def start(client, message) ---> __main__.py
-    ST_BN1_NAME = 'Rᴇᴘᴏ'
-    ST_BN1_URL = 'https://www.github.com/Jot4349/WZML-X-ADVANCE'
+    ST_BN1_NAME = 'ᴍɪᴋᴇʏ'
+    ST_BN1_URL = 'https://t.me/BalaPriyan'
     ST_BN2_NAME = 'Uᴘᴅᴀᴛᴇs'
-    ST_BN2_URL = 'https://t.me/NordBotz'
+    ST_BN2_URL = 'https://t.me/FondnessBots'
     ST_MSG = '''<i>Tʜɪs ʙᴏᴛ ᴄᴀɴ ᴍɪʀʀᴏʀ ᴀʟʟ ʏᴏᴜʀ ʟɪɴᴋs|ғɪʟᴇs|ᴛᴏʀʀᴇɴᴛs ᴛᴏ Gᴏᴏɢʟᴇ Dʀɪᴠᴇ ᴏʀ ᴀɴʏ ʀᴄʟᴏɴᴇ ᴄʟᴏᴜᴅ ᴏʀ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ ᴏʀ ᴛᴏ ᴅᴅʟ sᴇʀᴠᴇʀs.</i>
 <b>Tʏᴘᴇ {help_command} ᴛᴏ ɢᴇᴛ ᴀ ʟɪsᴛ ᴏғ ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs</b>'''
     ST_BOTPM = '''<i>Nᴏᴡ, Tʜɪs ʙᴏᴛ ᴡɪʟʟ sᴇɴᴅ ᴀʟʟ ʏᴏᴜʀ ғɪʟᴇs ᴀɴᴅ ʟɪɴᴋs ʜᴇʀᴇ. Sᴛᴀʀᴛ Usɪɴɢ ...</i>'''
